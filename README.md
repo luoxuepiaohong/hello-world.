@@ -34,6 +34,8 @@ git push
 
 # 删除文件
 git rm [file]
+ # 从 git 仓库删除文件，且该文件保留在本地工作目录中（即不让 git 继续追踪）
+ git rm --cached [file]
 
 # 重命名文件
 git mv [filr_from] [file_to]
