@@ -39,3 +39,18 @@ git rm [file]
 
 # 重命名文件
 git mv [filr_from] [file_to]
+
+# 查看提交历史
+git log
+ # 显示每次提交的内容差异
+ git log -p
+ # 显示每次提交的简略统计信息
+ git log --stat
+ # 显示最近两次统计信息
+ git log -2
+ # 显示最近两次提交的内容差异
+ git log -p -2
+ # 退出 git log
+ q
+
+```
