@@ -34,3 +34,6 @@ git push
 
 # 删除文件
 git rm [file]
+
+# 重命名文件
+git mv [filr_from] [file_to]
