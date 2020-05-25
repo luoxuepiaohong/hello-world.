@@ -31,3 +31,6 @@ git commit
 
 # 推送
 git push
+
+# 删除文件
+git rm [file]
