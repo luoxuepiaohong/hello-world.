@@ -53,4 +53,10 @@ git log
  # 退出 git log
  q
 
+ # 忽略文件
+  - window 环境下新建 gitignore.txt 文件
+  - 在项目根目录下面按住Shift键并右键，然后选择“在此处打开命令窗口”
+  - 执行命令 ren gitignore.txt .gitignore
+  - 把需要忽略的文件规则保存到 .gitignore 文件
+    - 忽略规则： https://git-scm.com/docs/gitignore
 ```
