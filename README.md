@@ -53,6 +53,8 @@ git log
  # 退出 git log
  q
 
+# 回滚提交
+
  # 忽略文件
   - window 环境下新建 gitignore.txt 文件
   - 在项目根目录下面按住Shift键并右键，然后选择“在此处打开命令窗口”
