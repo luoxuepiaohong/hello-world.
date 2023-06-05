@@ -50,8 +50,6 @@ git log
  git log -2
  # 显示最近两次提交的内容差异
  git log -p -2
- # 退出 git log
- q
 
  # 忽略文件
   - window 环境下新建 gitignore.txt 文件
